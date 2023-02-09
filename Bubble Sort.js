@@ -3,7 +3,7 @@ const len = arr.length;
 
 function bubbleSort(arr, len)
 {
-    // Implementing a bubble sort algorithm to sort the unsorted data
+    // Implemention of bubble sort algorithm to sort the unsorted data
     for(let i = 0; i < len; i++)
     {
         for(let j = 0; j < len - i - 1; j++)
